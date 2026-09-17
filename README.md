@@ -7,7 +7,7 @@ Building the next-generation AI-powered Learning Experience Platform (LXP) and E
 
 [![Lucebra Platform](https://img.shields.io/badge/Official%20Platform-Lucebra.com-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lucebra.com)
 [![GitHub Org](https://img.shields.io/badge/Ecosystem-%40Lucebrallc-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucebrallc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashad%20Gafarov-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashadgafarovfxbtc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashad%20Gafarov-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashad-lucebra/)
 [![Medium](https://img.shields.io/badge/Medium-%40rashadlucebra-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rashadlucebra)
 [![Affiliate Program](https://img.shields.io/badge/Affiliate%20Partner-Trackdesk-00c49f?style=for-the-badge)](https://lucebra.trackdesk.com/sign-up)
 
@@ -115,6 +115,6 @@ Designed and delivered mobile learning apps for continuous offline education:
 - 💼 **Business Solutions:** [https://www.lucebra.com/lucebra-business](https://www.lucebra.com/lucebra-business)
 - 👨‍🏫 **Become an Instructor:** [https://www.lucebra.com/become-instructor](https://www.lucebra.com/become-instructor)
 - 🤝 **Affiliate Program (Trackdesk):** [Join the Lucebra Affiliate Program](https://lucebra.trackdesk.com/sign-up)
-- 💼 **LinkedIn:** [Rashad Gafarov](https://www.linkedin.com/in/rashadgafarovfxbtc/)
+- 💼 **LinkedIn:** [Rashad Gafarov](https://www.linkedin.com/in/rashad-lucebra/)
 - 🏢 **Lucebra LinkedIn:** [Lucebra Company Page](https://www.linkedin.com/company/lucebra/)
 - 📧 **Direct Contact:** [letstalk@lucebra.com](mailto:letstalk@lucebra.com)
