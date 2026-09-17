@@ -7,8 +7,6 @@ Building next-generation AI e-learning infrastructure, high-concurrency cloud mi
 [![Lucebra](https://img.shields.io/badge/Founder%20%26%20Architect-Lucebra.com-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lucebra.com)
 [![GitHub Org](https://img.shields.io/badge/Ecosystem-%40Lucebrallc-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucebrallc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashad%20Gafarov-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashadgafarovfxbtc/)
-[![YouTube](https://img.shields.io/badge/YouTube-%40rashadprym-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rashadprym)
-[![Twitter](https://img.shields.io/badge/Twitter-%40rashadprym-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rashadprym)
 
 ---
 
@@ -83,6 +81,4 @@ Designed and delivered mobile learning apps for continuous offline education:
 - 💼 **Business Solutions:** [https://www.lucebra.com/lucebra-business](https://www.lucebra.com/lucebra-business)
 - 👨‍🏫 **Become an Instructor:** [https://www.lucebra.com/become-instructor](https://www.lucebra.com/become-instructor)
 - 💼 **LinkedIn:** [Rashad Gafarov](https://www.linkedin.com/in/rashadgafarovfxbtc/)
-- 📺 **YouTube:** [@rashadprym](https://youtube.com/@rashadprym) • [@rashadkriptoakademiya](https://www.youtube.com/@rashadkriptoakademiya)
-- 🐦 **Twitter / X:** [@rashadprym](https://twitter.com/rashadprym)
-- 📧 **Direct Contact:** [contact@lucebra.com](mailto:contact@lucebra.com) • [letstalk@lucebra.com](mailto:letstalk@lucebra.com)
+- 📧 **Direct Contact:** [letstalk@lucebra.com](mailto:letstalk@lucebra.com)
